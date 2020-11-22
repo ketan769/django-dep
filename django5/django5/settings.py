@@ -27,7 +27,7 @@ SECRET_KEY = 'tkq=q5h##r9(8webixu*i@p!+!wf6(2l!*lx8%9a5xkx%=t$h9'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['http://ketan769.pythonanywhere.com/']
 
 
 # Application definition
